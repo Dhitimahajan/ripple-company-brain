@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.data/
+*.log
+artifacts/
+.DS_Store
+
+.vercel
